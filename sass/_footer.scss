@@ -1,0 +1,12 @@
+@import "_common_vars";
+
+.footer {
+    overflow: hidden;
+    color: #CCC;
+    font-size: $footer-font-size;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 1px;
+}
